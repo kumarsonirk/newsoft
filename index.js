@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/rahul', (req, res) => {
-    res.send('Rahul New Project')
+    res.send('Rahul Project New')
 })
 
 app.get('/login', (req, res) => {
